@@ -1,0 +1,1 @@
+preparando archivo antes de subit al git
